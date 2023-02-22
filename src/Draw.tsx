@@ -29,6 +29,7 @@ const points = [
 // (elementSize.width / 2 - viewport.x - offsetX * scale) *
 // viewport?.zoom,
 
+// git test 수정
 export const Draw = () => {
     const fabricRef = useRef(null)
 
